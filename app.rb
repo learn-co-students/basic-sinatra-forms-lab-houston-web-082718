@@ -2,7 +2,7 @@ require 'sinatra/base'
 
 class App < Sinatra::Base
 
-get '/' do
+get '/newteam' do
   erb :newteam
 end
 

@@ -17,6 +17,7 @@
     <session id="491167705">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -197,22 +198,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1537222482376</updated>
-      <workItem from="1537222485010" duration="989000" />
+      <workItem from="1537222485010" duration="1042000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="989000" />
+    <option name="totallyTimeSpent" value="1042000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49950445" visible="true" weight="0.18266475" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.49950445" visible="true" weight="0.18266475" />
       <window_info id="Structure" order="2" sideWeight="0.50049555" side_tool="true" weight="0.18051118" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" x="629" y="382" width="1270" height="316" id="Terminal" order="1" visible="true" weight="0.31034482" />
+      <window_info active="true" anchor="bottom" x="629" y="382" width="1270" height="316" id="Terminal" order="1" visible="true" weight="0.31034482" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="4" weight="0.32903865" />
