@@ -35,14 +35,14 @@ describe App do
       expect(page).to have_text("Team Name: Bballers")
     end
 
-    it "displays the coach's name in the browser" do
-      visit '/newteam'
+    # it "displays the coach's name in the browser" do
+    #   visit '/newteam'
 
-      fill_in(:coach, :with => "Walter")
-      click_button "Submit"
+    #   fill_in(:coach, :with => "Walter")
+    #   click_button "Submit"
 
-      expect(page).to have_text("Coach: Walter")
-    end
+    #   expect(page).to have_text("Coach: Walter")
+    # end
 
     it "displays the point guard's name in the browser" do
       visit '/newteam'
